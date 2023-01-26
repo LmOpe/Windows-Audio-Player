@@ -1,0 +1,16 @@
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\bin\Debug\AudioPlayer.exe
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\bin\Debug\AudioPlayer.pdb
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\AudioPlayer.csproj.SuggestedBindingRedirects.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\AudioPlayer.AudioPlayer.resources
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\AudioPlayer.exe
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\AudioPlayer.pdb
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Muhammed\Desktop\C#\MyProject\Pojects\AudioPlayer\obj\Debug\AudioPlayer.csproj.ResolveComReference.cache
